@@ -272,7 +272,7 @@ header ul a:hover {
 
 .hero h1 {
   color: #000;
-  font-family: Arimo;
+  font-family: "Arimo";
   font-size: 96px;
   font-style: normal;
   font-weight: 700;
@@ -281,7 +281,7 @@ header ul a:hover {
 
 .hero p {
   color: rgba(0, 0, 0, 0.6);
-  font-family: Arimo;
+  font-family: "Arimo";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -303,7 +303,7 @@ header ul a:hover {
   background: #000;
 
   color: #fff;
-  font-family: Arimo;
+   
   font-size: 19px;
   font-style: normal;
   font-weight: 700;
@@ -453,7 +453,7 @@ header ul a:hover {
 .programs h2 {
   color: #ff0087;
   text-align: center;
-  font-family: Arimo;
+   
   font-size: 48px;
   font-style: normal;
   font-weight: 700;
@@ -492,7 +492,7 @@ header ul a:hover {
   background: #000;
 
   color: #fff;
-  font-family: Arimo;
+   
   font-size: 19px;
   font-style: normal;
   font-weight: 700;
@@ -526,7 +526,7 @@ header ul a:hover {
 
 .price-before {
   color: rgba(0, 0, 0, 0.4);
-  font-family: Arimo;
+   
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -536,7 +536,7 @@ header ul a:hover {
 
 .price-after {
   color: #000;
-  font-family: Arimo;
+   
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -568,7 +568,7 @@ header ul a:hover {
   border: 1px solid rgba(0, 0, 0, 0.1);
 
   color: #000;
-  font-family: Arimo;
+   
   font-size: 16px;
   font-style: italic;
   font-weight: 400;
@@ -584,7 +584,7 @@ header ul a:hover {
 .initiatives h2 {
   color: #ff0087;
   text-align: center;
-  font-family: Arimo;
+   
   font-size: 48px;
   font-style: normal;
   font-weight: 700;
@@ -611,7 +611,7 @@ header ul a:hover {
 
 .initiatives-card-content h3{
   color: #FF0087;
-  font-family: Inter;
+  font-family: "Arimo";
   font-size: 26.4px;
   font-style: normal;
   font-weight: 700;
@@ -621,7 +621,7 @@ header ul a:hover {
 
 .initiatives-card-content p{
   color: #FFF;
-  font-family: Inter;
+  font-family: "Arimo";
   font-size: 16.91px;
   font-style: normal;
   font-weight: 700;
@@ -659,7 +659,7 @@ header ul a:hover {
   border: 1px solid rgba(0, 0, 0, 0.1);
 
   color: #000;
-  font-family: Arimo;
+   
   font-size: 16px;
   font-style: italic;
   font-weight: 400;
@@ -675,7 +675,7 @@ header ul a:hover {
 /* .events h2 {
   color: #ff0087;
   text-align: center;
-  font-family: Arimo;
+   
   font-size: 48px;
   font-style: normal;
   font-weight: 700;
@@ -713,7 +713,7 @@ header ul a:hover {
 
 .event-details p {
   color: rgba(0, 0, 0, 0.6);
-  font-family: Arimo;
+   
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -732,7 +732,7 @@ header ul a:hover {
   border-radius: 62px;
   background: #000;
   color: #fff;
-  font-family: Arimo;
+   
   font-size: 23px;
   font-style: normal;
   font-weight: 400;
@@ -765,7 +765,7 @@ header ul a:hover {
 .team h2 {
   color: #ff0087;
   text-align: center;
-  font-family: Arimo;
+   
   font-size: 48px;
   font-style: normal;
   font-weight: 700;
@@ -775,7 +775,7 @@ header ul a:hover {
 .team span {
   color: #000;
   text-align: center;
-  font-family: Arimo;
+   
   font-size: 48px;
   font-style: normal;
   font-weight: 700;
@@ -817,7 +817,7 @@ header ul a:hover {
 
 .team-card h3 {
   color: #000;
-  font-family: Roboto;
+   
   font-size: 20px;
   font-style: normal;
   font-weight: 800;
@@ -826,7 +826,7 @@ header ul a:hover {
 
 .team-card h4 {
   color: #f506a4;
-  font-family: Arimo;
+   
   font-size: 17px;
   font-style: normal;
   font-weight: 400;
@@ -907,7 +907,7 @@ header ul a:hover {
 .testm h2 {
   color: #ff0087;
   text-align: center;
-  font-family: Arimo;
+   
   font-size: 48px;
   font-style: normal;
   font-weight: 700;
@@ -935,7 +935,7 @@ header ul a:hover {
 
 .test-card p {
   color: rgba(0, 0, 0, 0.6);
-  font-family: Arimo;
+   
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -984,7 +984,7 @@ footer .container {
 
 .footer-content li {
   color: rgba(0, 0, 0, 0.6);
-  font-family: Arimo;
+   
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -1008,7 +1008,7 @@ footer .container {
 .footer-rights {
   color: rgba(0, 0, 0, 0.6);
   text-align: left;
-  font-family: Arimo;
+   
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -1035,7 +1035,7 @@ footer .container {
 
 .newsletter h2 {
   color: #fff;
-  font-family: Arimo;
+   
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -1061,7 +1061,7 @@ footer .container {
   gap: 12px;
 
   color: #000;
-  font-family: Arimo;
+   
   font-size: 16px;
   font-style: italic;
   font-weight: 400;
@@ -1087,7 +1087,7 @@ footer .container {
 /* ------------- about us ---------------- */
 .about h2 {
   color: #ff00ae;
-  font-family: Arimo;
+   
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
@@ -1096,7 +1096,7 @@ footer .container {
 
 .about h3 {
   color: #000;
-  font-family: Roboto;
+   
   font-size: 50px;
   font-style: normal;
   font-weight: 800;
@@ -1147,7 +1147,7 @@ footer .container {
 /* ----------- choose -------------- */
 .choose h2 {
   color: #ff00ae;
-  font-family: Arimo;
+   
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
@@ -1156,7 +1156,7 @@ footer .container {
 
 .choose h3 {
   color: #000;
-  font-family: Roboto;
+   
   font-size: 50px;
   font-style: normal;
   font-weight: 800;
@@ -1252,7 +1252,7 @@ footer .container {
 
 .about-content h2{
   color: black;
-  font-family: Arimo;
+   
   font-size: 48px;
   font-style: normal;
   font-weight: 700;
@@ -1263,7 +1263,7 @@ footer .container {
 .about-content ul{
   list-style: unset;
   color: #000;
-  font-family: Arimo;
+   
   font-size: 24px;
   font-style: normal;
   font-weight: 400;
@@ -1272,7 +1272,7 @@ footer .container {
 
 .about-content ul span{
   color: #FF0087;
-  font-family: Arimo;
+   
   font-size: 24px;
   font-style: italic;
   font-weight: 700;
@@ -1305,7 +1305,7 @@ footer .container {
   border-radius: 62px;
   background: #000;
   color: #fff;
-  font-family: Arimo;
+   
   font-size: 23px;
   font-style: normal;
   font-weight: 400;
@@ -1346,7 +1346,7 @@ footer .container {
 
 .list-content-wrap-flex-content h4{
   color: #FF0087;
-  font-family: Roboto;
+   
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
@@ -1355,7 +1355,7 @@ footer .container {
 
 .list-content-wrap-flex-content p{
   color: #000;
-  font-family: Roboto;
+   
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -1373,7 +1373,7 @@ footer .container {
 .list-content button a{
   text-decoration: none;
   color: #000;
-  font-family: Roboto;
+   
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -1383,7 +1383,7 @@ footer .container {
 .list-content span{
   display: block;
   color: #000;
-  font-family: Roboto;
+   
   font-size: 50px;
   font-style: normal;
   font-weight: 800;
@@ -1392,7 +1392,7 @@ footer .container {
 
 .list-content h3{
   color: #FF0087;
-  font-family: Roboto;
+   
   font-size: 24px;
   font-style: normal;
   font-weight: 800;
@@ -1662,7 +1662,7 @@ footer .container {
 
 .flow-header h2{
   color: #FF0087;
-  font-family: Roboto;
+   
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
@@ -1674,7 +1674,7 @@ footer .container {
 .flow-header span{
   display: block;
   color: #000;
-  font-family: Roboto;
+   
   font-size: 50px;
   font-style: normal;
   font-weight: 800;
@@ -1721,7 +1721,7 @@ footer .container {
 
 .card-upper p{
   color: #000;
-  font-family: Roboto;
+   
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -1748,7 +1748,7 @@ footer .container {
 .card-lower button a{
     text-decoration: none;
     color: #000;
-    font-family: Roboto;
+     
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
@@ -1759,7 +1759,7 @@ footer .container {
   width: 40%;
   color: #000;
   text-align: right;
-  font-family: Roboto;
+   
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -1805,7 +1805,7 @@ footer .container {
 /* numbers */
 .list-content-two p:nth-child(1){
   color: #FF0087;
-  font-family: Roboto;
+   
   font-size: 24px;
   font-style: normal;
   font-weight: 800;
@@ -1816,7 +1816,7 @@ footer .container {
 .list-content-two p:nth-child(4){
   display: block;
   color: #000;
-  font-family: Roboto;
+   
   font-size: 50px;
   font-style: normal;
   font-weight: 800;
@@ -1827,7 +1827,7 @@ footer .container {
 .list-content-two p:nth-child(4) span{
   color: #FF0087;
   text-align: center;
-  font-family: Roboto;
+   
   font-size: 70px;
   font-style: normal;
   font-weight: 700;
@@ -1837,7 +1837,7 @@ footer .container {
 .list-content-two p:nth-child(3){
   color: #000;
   text-align: center;
-  font-family: Roboto;
+   
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -1909,7 +1909,7 @@ footer .container {
 .program-graduates h2 {
   text-align: center;
   color: #FF0087;
-  font-family: Roboto;
+   
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -1920,7 +1920,7 @@ footer .container {
 
 .program-graduates h2 span{
   color: #000;
-  font-family: Roboto;
+   
   font-size: 50px;
   font-style: normal;
   font-weight: 800;
@@ -1948,7 +1948,7 @@ footer .container {
 .program-graduates-card p {
   color: #FF0087;
   text-align: left;
-  font-family: Roboto;
+   
   font-size: 64px;
   font-style: normal;
   font-weight: 700;
@@ -1966,7 +1966,7 @@ footer .container {
 .program-graduates-card-content button a{
   text-decoration: none;
   color: #000;
-  font-family: Roboto;
+   
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -1981,7 +1981,7 @@ footer .container {
 .startups h2 {
   text-align: center;
   color: #FF0087;
-  font-family: Roboto;
+   
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -1991,7 +1991,7 @@ footer .container {
 
 .startups h2 span{
   color: #000;
-  font-family: Roboto;
+   
   font-size: 50px;
   font-style: normal;
   font-weight: 800;
@@ -2004,7 +2004,6 @@ footer .container {
 
 .startups-card {
   display: flex;
-  height: 240px;
   padding: 28px 28px;
   align-items: flex-start;
   align-content: flex-start;
@@ -2015,7 +2014,7 @@ footer .container {
 
 .startups-card p {
   color: #0038FF;
-  font-family: Roboto;
+   
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -2034,7 +2033,7 @@ footer .container {
 .startups-card-content button a{
   text-decoration: none;
   color: #000;
-  font-family: Roboto;
+   
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -2049,7 +2048,7 @@ footer .container {
 .circles-progress h2 {
   text-align: center;
   color: #FF0087;
-  font-family: Roboto;
+   
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -2060,7 +2059,7 @@ footer .container {
 
 .circles-progress h2 span{
   color: #000;
-  font-family: Roboto;
+   
   font-size: 50px;
   font-style: normal;
   font-weight: 800;
@@ -2086,7 +2085,7 @@ footer .container {
 
 .circles-progress-card p {
   color: #000;
-  font-family: Roboto;
+   
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -2113,7 +2112,7 @@ footer .container {
 .circles-progress-card-content button a{
   text-decoration: none;
   color: #000;
-  font-family: Roboto;
+   
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -2159,7 +2158,7 @@ circle-progress::part(circle) {
 /* press */
 .press h2 {
   color: #FF0087;
-  font-family: Roboto;
+   
   font-size: 46px;
   font-style: normal;
   font-weight: 700;
@@ -2184,7 +2183,7 @@ circle-progress::part(circle) {
 .press p {
   color: #707070;
   text-align: center;
-  font-family: Inter;
+    
   font-size: 17px;
   font-style: normal;
   font-weight: 300;
@@ -2212,7 +2211,7 @@ circle-progress::part(circle) {
 .press-card-content button a{
   text-decoration: none;
   color: #000;
-  font-family: Roboto;
+   
   font-size: 20px;
   font-style: normal;
   font-weight: 700;
@@ -2231,7 +2230,7 @@ circle-progress::part(circle) {
 
 .partners h2{
   color: #FF0087;
-  font-family: Roboto;
+   
   font-size: 48px;
   font-style: normal;
   font-weight: 700;
@@ -2242,7 +2241,7 @@ circle-progress::part(circle) {
 .partners p{
   color: #707070;
   text-align: center;
-  font-family: Inter;
+  font-family: "Arimo";
   font-size: 17px;
   font-style: normal;
   font-weight: 300;
@@ -2269,7 +2268,7 @@ circle-progress::part(circle) {
   border-radius: 62px;
   background: #000;
   color: #fff;
-  font-family: Arimo;
+   
   font-size: 21px;
   font-style: normal;
   font-weight: 400;
@@ -2308,7 +2307,7 @@ circle-progress::part(circle) {
 .tape{
   position: absolute;
   color: #fff;
-  font-family: Inter;
+    
   font-size: 35px;
   font-style: normal;
   font-weight: 600;
@@ -2341,7 +2340,7 @@ circle-progress::part(circle) {
 /* she can event details */
 .event-details{
   margin-top: 140px;
-  font-family: Roboto;
+   
 }
 
 .event-details-content{
@@ -2397,7 +2396,7 @@ circle-progress::part(circle) {
   flex-shrink: 0;
   color: #3D37F1;
   text-align: center;
-  font-family: Roboto;
+   
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -2410,7 +2409,7 @@ circle-progress::part(circle) {
 
 .version h2{
   color: #FF0087;
-  font-family: Roboto;
+   
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
@@ -2450,7 +2449,7 @@ circle-progress::part(circle) {
 .versions .date p:nth-child(1){
   color: #3D37F1;
   text-align: center;
-  font-family: Roboto;
+   
   font-size: 11.372px;
   font-style: normal;
   font-weight: 700;
@@ -2459,7 +2458,7 @@ circle-progress::part(circle) {
 
 .versions .date p:nth-child(2){
   color: #000;
-  font-family: Roboto;
+   
   font-size: 28.429px;
   font-style: normal;
   font-weight: 700;
@@ -2468,7 +2467,7 @@ circle-progress::part(circle) {
 
 .versions .card-tex p{
   color: #6A6A6A;
-  font-family: Roboto;
+   
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -2478,7 +2477,7 @@ circle-progress::part(circle) {
 .history h2 {
   text-align: center;
   color: #FF0087;
-  font-family: Roboto;
+   
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -2489,7 +2488,7 @@ circle-progress::part(circle) {
 
 .history h2 span{
   color: #000;
-  font-family: Roboto;
+   
   font-size: 50px;
   font-style: normal;
   font-weight: 800;
@@ -2516,7 +2515,7 @@ circle-progress::part(circle) {
 
 .history-card-content p{
   color: #000;
-  font-family: Roboto;
+   
   font-size: 13px;
   font-style: normal;
   font-weight: 700;
