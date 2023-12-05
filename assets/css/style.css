@@ -2314,8 +2314,10 @@ circle-progress::part(circle) {
   line-height: 34px;
   letter-spacing: 2.1px;
   text-transform: capitalize;
+  white-space: nowrap; /* Standard property */
+  -webkit-text-overflow: ellipsis; /* For added support on older versions of Safari/iOS */
   overflow: hidden;
-  text-wrap: nowrap;
+  text-overflow: clip; /* Display ellipsis (...) for text that overflows */
   background: linear-gradient(90deg, #6B64E2 -1.52%, #231AA8 100%);
   padding-top: 25px;
   padding-bottom: 25px;
